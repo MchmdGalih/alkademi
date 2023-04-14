@@ -1,0 +1,9 @@
+Nama                  : Mochamad Galih Sulistio Pratama
+Tempat, Tanggal lahir : Tasikmalaya, 18 Juli 2000
+Alamat                : Kp.Sayuran RT03/07 Cijerah Bandung Kulon
+Jenis Kelamin         : Laki-Laki
+Pendidikan            : SMK 
+Agama                 : Islam
+Kewarganegaraan       : Indonesia
+Email                 : mochamadglh@gmail.com
+Hobi                  : Futsal
